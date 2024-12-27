@@ -5,4 +5,6 @@
 
 ls  
 ls -l  
-ls -lr  
+ls -lr
+ls -lrth
+ls -a  
